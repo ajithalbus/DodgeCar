@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: d29ee12f43a6c6248ba0162979807434
+timeCreated: 1454245581
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: body
+    100002: body0
+    100004: body1
+    100006: body2
+    100008: body3
+    100010: //RootNode
+    100012: chrome
+    100014: chrome0
+    100016: chrome1
+    100018: chrome2
+    100020: chrome3
+    100022: chrome4
+    100024: chrome5
+    100026: d glass
+    100028: d glass0
+    100030: d glass1
+    100032: dash
+    100034: dash1
+    100036: doors
+    100038: doors0
+    100040: doors1
+    100042: doors2
+    100044: glass
+    100046: glass0
+    100048: glass1
+    100050: gum
+    100052: gum0
+    100054: gum1
+    100056: gum2
+    100058: gum3
+    100060: gum4
+    100062: gum5
+    100064: gum6
+    100066: gum7
+    100068: interior
+    100070: interior0
+    100072: light
+    100074: plate
+    100076: red l
+    100078: sign
+    100080: sign0
+    100082: sign1
+    100084: sign2
+    100086: sign3
+    100088: wheel
+    100090: wheel0
+    100092: wheel1
+    100094: wheel2
+    400000: body
+    400002: body0
+    400004: body1
+    400006: body2
+    400008: body3
+    400010: //RootNode
+    400012: chrome
+    400014: chrome0
+    400016: chrome1
+    400018: chrome2
+    400020: chrome3
+    400022: chrome4
+    400024: chrome5
+    400026: d glass
+    400028: d glass0
+    400030: d glass1
+    400032: dash
+    400034: dash1
+    400036: doors
+    400038: doors0
+    400040: doors1
+    400042: doors2
+    400044: glass
+    400046: glass0
+    400048: glass1
+    400050: gum
+    400052: gum0
+    400054: gum1
+    400056: gum2
+    400058: gum3
+    400060: gum4
+    400062: gum5
+    400064: gum6
+    400066: gum7
+    400068: interior
+    400070: interior0
+    400072: light
+    400074: plate
+    400076: red l
+    400078: sign
+    400080: sign0
+    400082: sign1
+    400084: sign2
+    400086: sign3
+    400088: wheel
+    400090: wheel0
+    400092: wheel1
+    400094: wheel2
+    2300000: body
+    2300002: body0
+    2300004: body1
+    2300006: body2
+    2300008: body3
+    2300010: chrome
+    2300012: chrome0
+    2300014: chrome1
+    2300016: chrome2
+    2300018: chrome3
+    2300020: chrome4
+    2300022: chrome5
+    2300024: d glass
+    2300026: d glass0
+    2300028: d glass1
+    2300030: dash
+    2300032: dash1
+    2300034: doors
+    2300036: doors0
+    2300038: doors1
+    2300040: doors2
+    2300042: glass
+    2300044: glass0
+    2300046: glass1
+    2300048: gum
+    2300050: gum0
+    2300052: gum1
+    2300054: gum2
+    2300056: gum3
+    2300058: gum4
+    2300060: gum5
+    2300062: gum6
+    2300064: gum7
+    2300066: interior
+    2300068: interior0
+    2300070: light
+    2300072: plate
+    2300074: red l
+    2300076: sign
+    2300078: sign0
+    2300080: sign1
+    2300082: sign2
+    2300084: sign3
+    2300086: wheel
+    2300088: wheel0
+    2300090: wheel1
+    2300092: wheel2
+    3300000: body
+    3300002: body0
+    3300004: body1
+    3300006: body2
+    3300008: body3
+    3300010: chrome
+    3300012: chrome0
+    3300014: chrome1
+    3300016: chrome2
+    3300018: chrome3
+    3300020: chrome4
+    3300022: chrome5
+    3300024: d glass
+    3300026: d glass0
+    3300028: d glass1
+    3300030: dash
+    3300032: dash1
+    3300034: doors
+    3300036: doors0
+    3300038: doors1
+    3300040: doors2
+    3300042: glass
+    3300044: glass0
+    3300046: glass1
+    3300048: gum
+    3300050: gum0
+    3300052: gum1
+    3300054: gum2
+    3300056: gum3
+    3300058: gum4
+    3300060: gum5
+    3300062: gum6
+    3300064: gum7
+    3300066: interior
+    3300068: interior0
+    3300070: light
+    3300072: plate
+    3300074: red l
+    3300076: sign
+    3300078: sign0
+    3300080: sign1
+    3300082: sign2
+    3300084: sign3
+    3300086: wheel
+    3300088: wheel0
+    3300090: wheel1
+    3300092: wheel2
+    4300000: body
+    4300002: glass
+    4300004: red l
+    4300006: glass0
+    4300008: d glass
+    4300010: sign
+    4300012: light
+    4300014: gum
+    4300016: gum0
+    4300018: chrome
+    4300020: chrome0
+    4300022: dash1
+    4300024: dash
+    4300026: chrome1
+    4300028: interior
+    4300030: body0
+    4300032: body1
+    4300034: doors
+    4300036: doors0
+    4300038: body2
+    4300040: body3
+    4300042: doors1
+    4300044: doors2
+    4300046: gum1
+    4300048: glass1
+    4300050: gum2
+    4300052: interior0
+    4300054: gum3
+    4300056: chrome2
+    4300058: sign0
+    4300060: gum4
+    4300062: wheel
+    4300064: wheel0
+    4300066: chrome3
+    4300068: sign1
+    4300070: gum5
+    4300072: wheel1
+    4300074: chrome4
+    4300076: sign2
+    4300078: gum6
+    4300080: gum7
+    4300082: wheel2
+    4300084: chrome5
+    4300086: sign3
+    4300088: plate
+    4300090: d glass0
+    4300092: d glass1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
